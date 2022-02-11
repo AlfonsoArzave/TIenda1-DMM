@@ -1,0 +1,1 @@
+position: fixed;    /* absolute es para que se quede en la posicion "original", fixed es para que se quede fija en la pantalla */
